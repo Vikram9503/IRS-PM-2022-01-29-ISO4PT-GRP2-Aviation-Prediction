@@ -15,9 +15,9 @@ Normally, the process of booking a flight involves going online to one of severa
 
 | Official Full Name        | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------------------|:-------------------------------:| :---------------------------| :-----|
-| Vikram Sankireddypally   | A0249306A | Data Analysis and Exploratory Data Transformation. Model Selection & Hyper Tuning .Flask Web Framework and Front End Integration. Data Analysis & Implementation of Collaborative Filtering ,SIT & UAT.| A0249306A@u.nus.edu |
-| Prashant Nair            | A0249268N | Gap analysis of existing booking engines and how we can be game changer. Technical Architecture Design and solution. Model Selection .Collaborative Filtering .SIT, UAT & Creating Technical & Promotional Presentation Video’s| A0249268N@u.nus.edu |
-| Pradeep Janakiraman      | A0140188H | Market research for available feature product & services in the aviation industry. Gap analysis of existing booking engines and how we can be game changer. Data Analysis & Exploratory Data Transformation. Model Selection & Hyper Tuning. Creating Technical & Promotional Videos. Designing and writing the project Report| A0140188H@u.nus.edu |
+| Vikram Sankireddypally   | A0249306A | Data Analysis and Exploratory Data Transformation. Model Selection & Hyper Tuning .Flask Web Framework and Front End Integration. Data Analysis & Implementation of Collaborative Filtering ,SIT & UAT.| e0938911@u.nus.edu |
+| Prashant Nair            | A0249268N | Gap analysis of existing booking engines and how we can be game changer. Technical Architecture Design and solution. Model Selection .Collaborative Filtering .SIT, UAT & Creating Technical & Promotional Presentation Video’s| e0938873@u.nus.edu |
+| Pradeep Janakiraman      | A0140188H | Market research for available feature product & services in the aviation industry. Gap analysis of existing booking engines and how we can be game changer. Data Analysis & Exploratory Data Transformation. Model Selection & Hyper Tuning. Creating Technical & Promotional Videos. Designing and writing the project Report| e0004098@u.nus.edu |
 
 
 ---
@@ -39,7 +39,7 @@ Normally, the process of booking a flight involves going online to one of severa
 
 ---
 
-## SECTION 5 : PROJECT REPORT/ USER GUIDE
+## SECTION 5 : Installation & User Guide. 
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
@@ -49,7 +49,9 @@ Normally, the process of booking a flight involves going online to one of severa
 
 > **pip install -r requirement.txt
 
-> **Go to URL using web browser**   http://127.0.0.1:5000
+> **Go to URL using web browser**   http://127.0.0.1:5000 ( local host) 
+
+> **Refer Usergide to use the appliation 
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in python 3 only.
