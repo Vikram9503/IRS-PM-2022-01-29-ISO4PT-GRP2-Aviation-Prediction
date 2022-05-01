@@ -51,7 +51,7 @@ Normally, the process of booking a flight involves going online to one of severa
 
 > **Go to URL using web browser**   http://127.0.0.1:5000 ( local host) 
 
-> **Refer Usergide to use the appliation 
+> **Refer the projectReport folder and download video on how to use the appliation. 
 
 ### [ 2 ] To run the system in other/local machine:
 ### Install additional necessary libraries. This application works in python 3 only.
