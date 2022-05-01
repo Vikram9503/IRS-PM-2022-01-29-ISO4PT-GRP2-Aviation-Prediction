@@ -29,7 +29,7 @@ Technical Architecture Video:
 
 Promotional Video:
 
-[![Watch the video](/Miscellaneous/company_logo.png)](https://youtu.be/EPcw1kouPUo)
+[![Watch the video](/Miscellaneous/product_logo_circle.png)](https://youtu.be/EPcw1kouPUo)
 
 https://youtu.be/EPcw1kouPUo
 
