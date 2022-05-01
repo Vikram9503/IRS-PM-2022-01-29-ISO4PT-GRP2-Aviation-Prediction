@@ -24,12 +24,12 @@
 Technical Architecture Video:
 
 
-[![Watch the video](logos.jpg)](https://www.youtube.com/embed/C6wgWhk-iK8)
+[![Watch the video](/Miscellaneous/company_logo.png)](https://www.youtube.com/embed/C6wgWhk-iK8)
 
 
 Promotional Video:
 
-[![Watch the video](logop.jpg)](https://youtu.be/EPcw1kouPUo)
+[![Watch the video](/Miscellaneous/company_logo.png)](https://youtu.be/EPcw1kouPUo)
 
 https://youtu.be/EPcw1kouPUo
 
