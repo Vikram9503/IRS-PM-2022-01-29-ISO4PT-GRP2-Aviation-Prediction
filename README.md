@@ -22,12 +22,14 @@
 `Refer to Technical journey and Promo videos at Github Folder: Videos`
 
 Technical Architecture Video:
-https://www.youtube.com/watch?v=C6wgWhk-iK8
 
 
-https://drive.google.com/file/d/15bDAtexdoA-4AZ4Al2cPPFUOOmNFMIq8/view?usp=sharing
+[![Watch the video](logos.jpg)](https://www.youtube.com/embed/C6wgWhk-iK8)
+
 
 Promotional Video:
+
+[![Watch the video](logop.jpg)](https://youtu.be/EPcw1kouPUo)
 
 https://youtu.be/EPcw1kouPUo
 
