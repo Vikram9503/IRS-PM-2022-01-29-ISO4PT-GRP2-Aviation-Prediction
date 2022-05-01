@@ -15,9 +15,9 @@ Normally, the process of booking a flight involves going online to one of severa
 
 | Official Full Name        | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------------------|:-------------------------------:| :---------------------------| :-----|
-| Vikram Sankireddypally   | A0249306A | Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0249306A@u.nus.edu |
-| Prashant Nair                | A0249268N | Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0249268N@u.nus.edu |
-| Pradeep Janakiraman      | A0140188H | Exploratory Data Analysis & Transformation, Modelling,HyperTuning,Collboation Filter,Flask, Integration,Documentation, Testing| A0140188H@u.nus.edu |
+| Vikram Sankireddypally   | A0249306A | Data Analysis and Exploratory Data Transformation. Model Selection & Hyper Tuning .Flask Web Framework and Front End Integration. Data Analysis & Implementation of Collaborative Filtering ,SIT & UAT.| A0249306A@u.nus.edu |
+| Prashant Nair            | A0249268N | Gap analysis of existing booking engines and how we can be game changer. Technical Architecture Design and solution. Model Selection .Collaborative Filtering .SIT, UAT & Creating Technical & Promotional Presentation Video’s| A0249268N@u.nus.edu |
+| Pradeep Janakiraman      | A0140188H | Market research for available feature product & services in the aviation industry. Gap analysis of existing booking engines and how we can be game changer. Data Analysis & Exploratory Data Transformation. Model Selection & Hyper Tuning. Creating Technical & Promotional Videos. Designing and writing the project Report| A0140188H@u.nus.edu |
 
 
 ---
@@ -29,17 +29,13 @@ Normally, the process of booking a flight involves going online to one of severa
 ##  Technical Architecture Video:
 
 
-[![Watch the video](/Miscellaneous/company_logo.png)](https://www.youtube.com/embed/C6wgWhk-iK8)
+[![Watch the video](/Miscellaneous/logo.png)](https://www.youtube.com/embed/C6wgWhk-iK8)
 
 
 ## Promotional Video:
 
 [![Watch the video](/Miscellaneous/product_logo_circle.png)](https://youtu.be/EPcw1kouPUo)
 
-https://youtu.be/EPcw1kouPUo
-
-
-https://drive.google.com/file/d/1yej1o1oLQ0iwaID0FHwgbsprZCrC9Sur/view?usp=sharing
 
 ---
 
